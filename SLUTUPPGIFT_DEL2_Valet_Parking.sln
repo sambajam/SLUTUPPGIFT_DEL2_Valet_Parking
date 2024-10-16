@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLUTUPPGIFT_DEL2_Valet_Parking", "SLUTUPPGIFT_DEL2_Valet_Parking\SLUTUPPGIFT_DEL2_Valet_Parking.csproj", "{D49D26FA-C819-47FB-B152-3C0F6038E60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49D26FA-C819-47FB-B152-3C0F6038E60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49D26FA-C819-47FB-B152-3C0F6038E60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49D26FA-C819-47FB-B152-3C0F6038E60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49D26FA-C819-47FB-B152-3C0F6038E60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {577FB6B5-DA9F-488E-8B18-ED9E0385C0A6}
+	EndGlobalSection
+EndGlobal
